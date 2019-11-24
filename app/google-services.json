@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "858732002071",
+    "firebase_url": "https://fundamentos-software-diseno.firebaseio.com",
+    "project_id": "fundamentos-software-diseno",
+    "storage_bucket": "fundamentos-software-diseno.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858732002071:android:9030ddd0fa6154526e5552",
+        "android_client_info": {
+          "package_name": "com.android.loginandform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858732002071-7qk4carnlkdj1eacg4kabsh3ov43cc61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ_C6yLmgY82voqUe_5wDPwU888Le5fgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858732002071-7qk4carnlkdj1eacg4kabsh3ov43cc61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
